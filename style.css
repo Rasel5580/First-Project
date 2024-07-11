@@ -1,1 +1,147 @@
-# First-Project
+
+.head{
+    background-image: url(Assignment-1/assets/Hero-bg.png);
+    font-family: sans-serif;
+    text-align: center;
+    padding: 40px;
+    margin: 100px 5px;
+}
+.h-1{
+    font-weight: bold;
+    font-size: 60px;
+}
+.p-1{
+    font-size: 20px;
+}
+.b-1{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 25px;
+    padding: 20px;
+}
+.main-1{
+    font-family: sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+.h-2{
+    font-weight: bold;
+    font-size: 40px;
+}
+.p-2{
+    font-size: 20px;
+}
+.sec-main{
+    padding: 20px 200px;
+    font-family: sans-serif;
+    margin: 5% 10%;
+    background-color: azure;
+}
+.h-3{
+    font-size: 25px;
+    
+}
+.h-4{
+    font-size: 30px;
+}
+.con-1{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: 100%;
+    padding: 30px;
+    margin-bottom: 30px;
+    background-color: white;
+}
+.con-2{
+    display: flex;
+    text-decoration: 100%;
+    padding: 30px 50px;
+    gap: 70px;
+    background-color: white;
+    margin-bottom: 30px;
+}
+.bu-2{
+    font-size: 25px;
+    background-color: white;
+    border-radius: 3px;
+    padding: 10px;
+    margin-top: 10px;
+}
+.d-1{
+    padding: 20px;
+    max-width: 500px;
+    
+}
+.d-2{
+    
+}
+.sec-main-2{
+    padding: 20px 230px;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 20px;
+}
+.sec-main-3{
+    padding: 20px 230px;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 10px;
+    font-weight: bold;
+    padding: 10px;
+
+.op{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 30px;
+    gap: 80px;
+}
+.tag-1{
+    background-color: rgba(255, 136, 0, 0.126);
+    padding: 30px;
+    border: none;
+    border-radius: 20px;
+}
+.tag-2{
+   background-color: rgba(0, 255, 255, 0.126);
+    padding: 30px;
+    border: none;
+    border-radius: 20px;
+}
+.tag-3{
+    background-color: rgba(187, 255, 0, 0.126);
+    padding: 30px;
+    border: none;
+    border-radius: 20px;
+}
+
+.ok{
+    
+}
+.sec-main-3{
+    padding: 50px 200px;
+    font-family: sans-serif;
+}
+.video{
+    border: 2px black;
+    padding: 20px;
+    border-radius: 10px;
+}
+.foot{
+    background-image: url(Assignment-1/assets/handshake.jpg);
+    font-family: sans-serif;
+    text-align: center;
+}
+.zz{
+    display: flex;
+}
+.in-1{
+
+}
+.bu-3{
+    background-color: white;
+    color: black;
+}
