@@ -1,3 +1,4 @@
+
 .head{
     background-image: url(Assignment-1/assets/Hero-bg.png);
     font-family: sans-serif;
@@ -129,6 +130,7 @@
     border: 2px black;
     padding: 20px;
     border-radius: 10px;
+    
 }
 .zz{
     display: flex;
